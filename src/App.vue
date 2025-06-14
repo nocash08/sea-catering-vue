@@ -3,5 +3,7 @@ import { RouterLink, RouterView } from "vue-router";
 </script>
 
 <template>
-  <RouterView />
+  <main class="mx-auto min-h-[80vh]">
+    <RouterView />
+  </main>
 </template>
